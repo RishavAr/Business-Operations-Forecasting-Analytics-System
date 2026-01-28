@@ -1,24 +1,3 @@
-"""
-================================================================================
-BUSINESS OPERATIONS & FORECASTING ANALYTICS SYSTEM
-================================================================================
-Complete End-to-End Python Code for:
-- KPI Framework Design
-- Trend & Seasonality Analysis
-- Rolling Metrics
-- Demand Forecasting with ML Models
-- What-If Scenario Analysis
-- Cost vs Revenue Trade-offs
-- Customer Churn Analytics
-- Workforce Planning
-- Regional & Category Analysis
-- Executive Summary Dashboard
-- Excel Report Generation
-
-Author: Claude (Anthropic)
-Date: January 2025
-================================================================================
-"""
 
 # =============================================================================
 # IMPORTS
